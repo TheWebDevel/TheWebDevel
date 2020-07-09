@@ -7,4 +7,4 @@ A Back-End Engineer & a programming language nerd.
 - 💬 Ask me about Ruby, Rust, Javascript.
 - ⚡ Fun fact: I code without coffee. ☕️
 
-![Contact me via](https://sathishcodes.com/images/sathish-codes.png)
+Say hi to me on [Twitter](https://twitter.com/SathishCodes).
