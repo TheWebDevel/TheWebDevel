@@ -1,5 +1,7 @@
 ### hello_world() 👋
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=thewebdevel alt=thewebdevel/></p>
+
 I'm a Back-End Engineer & a programming language nerd.
 
 -  🔭&nbsp; I’m currently working with Rust & contributing to [K9 - Rust Testing Library](https://github.com/aaronabramov/k9).
