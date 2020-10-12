@@ -4,7 +4,8 @@
 
 I'm a Back-End Engineer & a programming language nerd.
 
--  🔭&nbsp; I’m currently working with Rust & contributing to [K9 - Rust Testing Library](https://github.com/aaronabramov/k9).
+-  🔭&nbsp; I’m currently playing around with Rust & contributed to [K9 - Rust Testing Library](https://github.com/aaronabramov/k9).
+-  🦋&nbsp; Contributing to [Kutty - a tailwind plugin for building web applications](https://github.com/praveenjuge/kutty).
 -  🌱&nbsp; I’m currently learning to get better at Rustlang.
 -  💬&nbsp; Ask me about (Ruby || Rust || Javascript).
 -  💯&nbsp; Currently obsessed with writing clean & maintainable code.
