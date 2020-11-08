@@ -1,6 +1,9 @@
 ### hello_world() 👋
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=thewebdevel alt=thewebdevel/></p>
+<p align="left">
+  <img src=https://komarev.com/ghpvc/?username=thewebdevel alt=thewebdevel/>
+  <a href="https://twitter.com/intent/follow?screen_name=SathishCodes&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/SathishCodes?label=%40swyx&style=social"></a>
+</p>
 
 I'm a Back-End Engineer & a programming language nerd.
 
